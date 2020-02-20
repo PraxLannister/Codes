@@ -1,0 +1,24 @@
+-142 3 1 4 66 55 5 
+==========
+i 1
+spolcs 1
+i 1
+spolcs 1
+i 3
+spolcs 3
+also found 4
+also found 5
+i 3
+spolcs 3
+also found 4
+also found 5
+i 4
+i 4
+i 55
+spolcs 55
+i 5
+i 66
+spolcs 66
+i -142
+spolcs -142
+3

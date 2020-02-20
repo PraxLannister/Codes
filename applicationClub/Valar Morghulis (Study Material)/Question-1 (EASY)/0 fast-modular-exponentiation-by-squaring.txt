@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=nO7_qu2kd1Q
+https://www.geeksforgeeks.org/modular-exponentiation-recursive/
+https://cp-algorithms.com/algebra/binary-exp.html

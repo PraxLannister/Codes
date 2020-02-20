@@ -1,0 +1,7 @@
+converting : 0.2
+converting : 0.5
+converting : 0.3
+converting : 1.2
+converting : 3.4
+converting : 33.333
+0.2,0.5,0.3,1.2,3.4,33.333,
